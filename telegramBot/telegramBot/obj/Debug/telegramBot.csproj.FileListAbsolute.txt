@@ -1,0 +1,14 @@
+D:\repo\telbot\telegramBot\telegramBot\bin\Debug\telegramBot.exe.config
+D:\repo\telbot\telegramBot\telegramBot\bin\Debug\telegramBot.exe
+D:\repo\telbot\telegramBot\telegramBot\bin\Debug\telegramBot.pdb
+D:\repo\telbot\telegramBot\telegramBot\bin\Debug\Newtonsoft.Json.dll
+D:\repo\telbot\telegramBot\telegramBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\repo\telbot\telegramBot\telegramBot\bin\Debug\Telegram.Bot.dll
+D:\repo\telbot\telegramBot\telegramBot\bin\Debug\Newtonsoft.Json.xml
+D:\repo\telbot\telegramBot\telegramBot\obj\Debug\telegramBot.csprojResolveAssemblyReference.cache
+D:\repo\telbot\telegramBot\telegramBot\obj\Debug\telegramBot.Form1.resources
+D:\repo\telbot\telegramBot\telegramBot\obj\Debug\telegramBot.Properties.Resources.resources
+D:\repo\telbot\telegramBot\telegramBot\obj\Debug\telegramBot.csproj.GenerateResource.Cache
+D:\repo\telbot\telegramBot\telegramBot\obj\Debug\telegramBot.exe
+D:\repo\telbot\telegramBot\telegramBot\obj\Debug\telegramBot.pdb
+D:\repo\telbot\telegramBot\telegramBot\bin\Debug\RestSharp.dll
